@@ -1,5 +1,5 @@
- olá , sou @gabrielaves
- estudante do colégio Rui Barbosa
+ - olá , sou @gabrielaves
+ estudante do colégio Ruth Martinez Corrêa
 
 
 <!---
